@@ -6,7 +6,6 @@ import { AuthMiddleware } from './utils/AuthMiddleware';
 
 const routes = Router();
 
-// routes.get('/', UserController.index);
 routes.post('/register', UserController.create);
 routes.post('/login', UserController.login);
 routes.get('/logout', AuthMiddleware.logout, UserController.logout);

@@ -24,7 +24,7 @@ class Api{
 
     
     // TODO - Cors options - https://medium.com/@alexishevia/using-cors-in-express-cac7e29b005b
-    const origin = (process.env.NODE_ENV == 'production') ? 'https://api-adopet-pablo.herokuapp.com/3000' : 'http://localhost:3000'
+    const origin = (process.env.NODE_ENV == 'production') ? 'https://frontend-adopet-pablo.herokuapp.com' : 'http://localhost:3000'
     this.express.use(cors({
       origin: origin
     }));
