@@ -1,0 +1,108 @@
+{"message":"Server is listening on 8000","level":"info","service":"user-service"}
+{"message":"Server is listening on 8000","level":"info","service":"user-service"}
+{"message":"Server is listening on 8000","level":"info","service":"user-service"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"error"}
+{"message":"Server is listening on 8000","level":"error"}
+{"message":"Server is listening on 8000","level":"error"}
+{"message":"Teste de ERROR","level":"error"}
+{"message":"Teste de info","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Error on create user","level":"error"}
+{"message":"Error on create user","level":"error"}
+{"message":"Error on create user","level":"error"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Error on create user","level":"error"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Error on create user","level":"error"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Error on create user","level":"error"}
+{"message":"Error on create user","level":"error"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Error on create user","level":"error"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Error on login user","level":"error"}
+{"message":"Error on login user","level":"error"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Error on login user","level":"error"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Error on login user","level":"error"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"message":"Server is listening on 8000","level":"info"}
+{"success":true,"message":"Success","code":200,"data":[{"uuid":"7a408f2a-a9aa-4224-a4af-4188d38ce1cf","name":"Pablo Insominia","email":"pablo.muro@gmail.com"},{"uuid":"f7767991-2633-4e2b-8764-b36160b54d46","name":"Pablo 2","email":"pablo.muro2@gmail.com"},{"uuid":"d9dd130b-8d88-40b4-b521-e51e7b0cbe3c","name":"Pablo 2","email":"pablo.muro3@gmail.com"}],"error":null,"level":"info"}
