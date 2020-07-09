@@ -8,7 +8,6 @@ const routes = Router();
 
 routes.post('/register', UserController.create);
 routes.post('/login', UserController.login);
-routes.get('/logout', AuthMiddleware.logout, UserController.logout);
 
 routes.get('/products', AuthMiddleware.authValidation, ProductController.list);
 routes.post('/product', AuthMiddleware.authValidation, ProductController.create);
