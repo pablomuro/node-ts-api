@@ -47,22 +47,4 @@ export class AuthMiddleware{
           }
     }
 
-    public static async logout(req : any, res : Response, next : NextFunction) : Promise<void | Response> {
-        if (!req.headers['authorization']) {
-            return res.status(400).json({ success: false, message: 'No access token provided' });
-          }
-          const accessToken = req.headers.authorization.split(' ')[1];
-          try {
-            const decoded : any = jwt.verify(accessToken, AuthMiddleware.SECRET_KEY);
-            req.userUuid = decoded.uuid;
-            req.userName = decoded.name;
-            req.userEmail = decoded.name;
-            return next();
-          } catch (error) {
-            const apiResponse = ApiResponse.error(error.message, error);
-            logger.error(apiResponse);
-            return res.status(401).json(apiResponse);
-          }
-    }
-
 }
